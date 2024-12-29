@@ -9,7 +9,7 @@ Prerequisites
 Installation
 1. Clone this repository to your local machine:
 ```
-git clone https://github.com/SankritaPatel/Calculator
+git clone https://github.com/Sankrita05/Calculator
 ```
 2. Navigate to the project directory:
 ```
